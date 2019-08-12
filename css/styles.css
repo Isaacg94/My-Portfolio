@@ -16,8 +16,8 @@ body {
 .sidebar {
   border: 2px solid #dbdbdb;
   padding: 7px;
-  margin: 10px;
+  margin: 70px;
   width: 40%;
   float: right;
-  background-image: linear-gradient(#ff9ee9, #8cd0ff);
+  background-image: linear-gradient(#ffffff, #dda9ff);
 }
