@@ -13,6 +13,7 @@ body {
   text-align: center;
 }
 .column {
+  font-style: oblique;
   width: 350px;
   float: left;
   border: 2px solid #dbdbdb;
@@ -29,5 +30,5 @@ body {
   margin: 70px;
   width: 27%;
   float: right;
-  background-color: #002541
+  background-color: #001729
 }
