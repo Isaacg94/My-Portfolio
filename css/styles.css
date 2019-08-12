@@ -4,7 +4,7 @@ body {
 .header {
   text-align: center;
   font-family: monospace;
-  border: 6px solid red;
+  border: 6px solid #00ff8d;
   padding: 7px;
   margin: 10px;
   background-image: linear-gradient(#ffffff, #ba98ff);
