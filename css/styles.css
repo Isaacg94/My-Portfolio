@@ -7,7 +7,7 @@ body {
   border: 6px solid #dbdbdb;
   padding: 7px;
   margin: 70px;
-  background-image: linear-gradient(#ffffff, #dda9ff);
+  background-image: linear-gradient(#ffffff, #ffe1f6);
 }
 .main {
   text-align: center;
@@ -23,7 +23,7 @@ body {
   border: 2px solid #dbdbdb;
   padding: 7px;
   margin: 70px;
-  width: 40%;
+  width: 27%;
   float: right;
   background-image: linear-gradient(#ffffff, #dda9ff);
 }
