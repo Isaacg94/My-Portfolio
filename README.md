@@ -14,6 +14,7 @@ CSS
 ## Support and contact details
 GitHub profile: [Isaac Gichuru](https://github.com/Isaacg94)
 Primary E-mail address: (7248zack@gmail.com)
+Link to live site : [GitHub Pages](https://isaacg94.github.io/My-Portfolio/)
 ### License
 *MIT*
 Copyright (c) 2019 **Isaac Gichuru**
