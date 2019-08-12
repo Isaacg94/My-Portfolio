@@ -11,9 +11,11 @@ body {
 }
 .illustrator {
   color: #ff00f9;
+  font-weight: bold;
 }
 .music-producer {
   color: #00d9c1;
+  font-weight: bold;
 }
 .main {
   text-align: center;
