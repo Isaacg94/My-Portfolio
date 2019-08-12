@@ -1,0 +1,11 @@
+body {
+  background-image: linear-gradient(#ffffff, #8cd0ff);
+}
+.sidebar {
+  border: 2px solid red;
+  padding: 7px;
+  margin: 10px;
+  width: 40%;
+  float: right;
+  background-image: linear-gradient(#ff9ee9, #8cd0ff);
+}
