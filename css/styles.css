@@ -1,6 +1,10 @@
 body {
   background-image: linear-gradient(#ffffff, #8cd0ff);
 }
+.header {
+  text-align: center;
+  font-family: monospace;
+}
 .sidebar {
   border: 2px solid red;
   padding: 7px;
