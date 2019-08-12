@@ -1,13 +1,13 @@
 body {
-  background-image: linear-gradient(#ffffff, #8cd0ff);
+  background-image: linear-gradient(#4c3e69, #00ff8d);
 }
 .header {
   text-align: center;
   font-family: monospace;
-  border: 6px solid #00ff8d;
+  border: 6px solid #a5ffd7;
   padding: 7px;
   margin: 10px;
-  background-image: linear-gradient(#ffffff, #ba98ff);
+  background-image: linear-gradient(#ffffff, #dda9ff);
 }
 .sidebar {
   border: 2px solid red;
