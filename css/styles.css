@@ -20,6 +20,9 @@ body {
 .main {
   text-align: center;
 }
+.main p {
+    font-weight: bold;
+}
 .column {
   font-style: oblique;
   color: white;
