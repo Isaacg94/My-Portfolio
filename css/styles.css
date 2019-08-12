@@ -1,5 +1,5 @@
 body {
-  background-image: linear-gradient(#dbdbdb, #a9bdc1);
+  background-image: linear-gradient(#dbdbdb, #fff8b1, #ffbfb1);
 }
 .header {
   text-align: center;
@@ -14,15 +14,16 @@ body {
 }
 .column {
   font-style: oblique;
+  color: white;
   width: 350px;
   float: left;
   border: 2px solid #dbdbdb;
   padding: 7px;
   margin: 30px;
-  background-color: #dbdbdb
+  background-image: linear-gradient(#00d9c1, #003158);
 }
 .sidebar {
-  color: white;
+  color: black;
   font-family: monospace;
   font-size: 10px;
   border: 2px solid #dbdbdb;
@@ -30,5 +31,5 @@ body {
   margin: 70px;
   width: 27%;
   float: right;
-  background-color: #001729
+  background-image: linear-gradient(#ffffff, #dbdbdb);
 }
