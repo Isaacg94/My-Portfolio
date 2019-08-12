@@ -18,7 +18,7 @@ body {
   border: 2px solid #dbdbdb;
   padding: 7px;
   margin: 30px;
-  background-image: linear-gradient(#ffffff, #dbdbdb);
+  background-color: #dbdbdb
 }
 .sidebar {
   border: 2px solid #dbdbdb;
