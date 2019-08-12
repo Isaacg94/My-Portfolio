@@ -9,6 +9,12 @@ body {
   margin: 70px;
   background-image: linear-gradient(#ffffff, #dbdbdb);
 }
+.illustrator {
+  color: #ff00f9;
+}
+.music-producer {
+  color: #00d9c1;
+}
 .main {
   text-align: center;
 }
