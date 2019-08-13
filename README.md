@@ -5,7 +5,7 @@
  This is a portfolio Webpage showcasing my class projects which include various websites that I have been creating as part of my classwork and practice assignments at Moringa School. In this project I have included some of the most common HTML tags, incorporated a custom-made stylesheet that uses cascading, the box model, and floats, made accurate indentation and spacing of HTML and CSS, made commits as well as push to the remote repository on GitHub and GitHub Pages.
 ## Setup/Installation Requirements
 * `git clone https://github.com/Isaacg94/My-Portfolio.git`
-* `cd my-first-webpage`
+* `cd my-portfolio`
 * `atom .`
 
 ## Technologies Used
