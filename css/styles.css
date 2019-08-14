@@ -1,5 +1,7 @@
 body {
   background-image: linear-gradient(#dbdbdb, #fff8b1, #ffbfb1);
+  font-family: 'Libre Caslon Display', serif;
+
 }
 .header {
   text-align: center;
@@ -23,8 +25,13 @@ body {
 .main p {
     font-weight: bold;
 }
-
-
+.card{
+  border-radius: 10px;
+}
+button{
+  border-radius: 50px;
+  text-align: center;
+}
 .sidebar {
   color: black;
   font-family: monospace;
